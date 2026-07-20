@@ -1,0 +1,3 @@
+./submissions/erin_a1.c	DUPLICATE OF	./submissions/dave_a1.c
+./submissions/bob_a1.py	DUPLICATE OF	./submissions/carol_a1.py
+./submissions/alice_a1.py	DUPLICATE OF	./submissions/carol_a1.py

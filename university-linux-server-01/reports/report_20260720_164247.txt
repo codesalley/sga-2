@@ -1,0 +1,19 @@
+===================================================
+ SUBMISSION DE-DUPLICATION REPORT
+ Generated : 2026-07-20 16:42:47
+ Source    : ./submissions
+ Backup    : ./backup
+===================================================
+ Files processed   : 8
+ Unique (backed up): 5
+ Duplicates found  : 3
+ Errors logged     : 0
+---------------------------------------------------
+ DUPLICATE SUBMISSIONS:
+   ./submissions/erin_a1.c	DUPLICATE OF	./submissions/dave_a1.c
+   ./submissions/bob_a1.py	DUPLICATE OF	./submissions/carol_a1.py
+   ./submissions/alice_a1.py	DUPLICATE OF	./submissions/carol_a1.py
+----------------------=----------------------------
+ Full error log : ./reports/errors_20260720_164247.log
+ Hash manifest  : ./reports/manifest_20260720_164247.tsv
+=====================++==+=========================
