@@ -1,0 +1,9 @@
+=== monitor started 2026-07-21 11:30:59 on app.log ===
+2026-07-21 11:31:03 ERROR [req-0002] connection refused
+2026-07-21 11:31:05 ERROR [req-0006] request served
+2026-07-21 11:31:07 ERROR [req-0011] request served
+2026-07-21 11:31:08 ERROR [req-0012] db timeout
+2026-07-21 11:31:10 ERROR [req-0016] cache miss
+2026-07-21 11:31:17 ERROR [req-0007] user login
+2026-07-21 11:31:19 ERROR [req-0011] cache miss
+2026-07-21 11:31:19 ERROR [req-0012] null pointer

@@ -1,0 +1,60 @@
+2026-07-21 11:30:48 INFO  [req-0001] disk 91% full
+2026-07-21 11:30:48 DEBUG [req-0002] cache miss
+2026-07-21 11:30:49 INFO  [req-0003] retry scheduled
+2026-07-21 11:30:49 ERROR [req-0004] disk 91% full
+2026-07-21 11:30:50 INFO  [req-0005] null pointer
+2026-07-21 11:30:50 FATAL [req-0006] user login
+2026-07-21 11:30:51 INFO  [req-0007] retry scheduled
+2026-07-21 11:30:51 INFO  [req-0008] request served
+2026-07-21 11:30:52 ERROR [req-0009] db timeout
+2026-07-21 11:30:52 ERROR [req-0010] user login
+2026-07-21 11:30:53 INFO  [req-0011] request served
+2026-07-21 11:30:53 INFO  [req-0012] retry scheduled
+2026-07-21 11:30:54 INFO  [req-0013] user login
+2026-07-21 11:30:54 INFO  [req-0014] retry scheduled
+2026-07-21 11:30:55 WARN  [req-0015] db timeout
+2026-07-21 11:30:55 INFO  [req-0016] db timeout
+2026-07-21 11:30:56 INFO  [req-0017] db timeout
+2026-07-21 11:30:56 INFO  [req-0018] connection refused
+2026-07-21 11:30:57 INFO  [req-0019] user login
+2026-07-21 11:30:57 ERROR [req-0020] disk 91% full
+2026-07-21 11:31:02 INFO  [req-0001] db timeout
+2026-07-21 11:31:03 ERROR [req-0002] connection refused
+2026-07-21 11:31:03 INFO  [req-0003] user login
+2026-07-21 11:31:04 INFO  [req-0004] connection refused
+2026-07-21 11:31:04 INFO  [req-0005] disk 91% full
+2026-07-21 11:31:05 ERROR [req-0006] request served
+2026-07-21 11:31:05 INFO  [req-0007] disk 91% full
+2026-07-21 11:31:06 DEBUG [req-0008] retry scheduled
+2026-07-21 11:31:06 INFO  [req-0009] disk 91% full
+2026-07-21 11:31:07 INFO  [req-0010] db timeout
+2026-07-21 11:31:07 ERROR [req-0011] request served
+2026-07-21 11:31:08 ERROR [req-0012] db timeout
+2026-07-21 11:31:08 INFO  [req-0013] null pointer
+2026-07-21 11:31:09 WARN  [req-0014] connection refused
+2026-07-21 11:31:09 WARN  [req-0015] null pointer
+2026-07-21 11:31:10 ERROR [req-0016] cache miss
+2026-07-21 11:31:10 INFO  [req-0017] connection refused
+2026-07-21 11:31:11 DEBUG [req-0018] retry scheduled
+2026-07-21 11:31:11 INFO  [req-0019] user login
+2026-07-21 11:31:12 WARN  [req-0020] retry scheduled
+2026-07-21 11:31:14 INFO  [req-0001] user login
+2026-07-21 11:31:14 INFO  [req-0002] cache miss
+2026-07-21 11:31:15 INFO  [req-0003] db timeout
+2026-07-21 11:31:15 DEBUG [req-0004] request served
+2026-07-21 11:31:16 DEBUG [req-0005] user login
+2026-07-21 11:31:16 INFO  [req-0006] connection refused
+2026-07-21 11:31:17 ERROR [req-0007] user login
+2026-07-21 11:31:17 DEBUG [req-0008] null pointer
+2026-07-21 11:31:18 INFO  [req-0009] user login
+2026-07-21 11:31:18 INFO  [req-0010] null pointer
+2026-07-21 11:31:19 ERROR [req-0011] cache miss
+2026-07-21 11:31:19 ERROR [req-0012] null pointer
+2026-07-21 11:31:20 DEBUG [req-0013] user login
+2026-07-21 11:31:20 INFO  [req-0014] connection refused
+2026-07-21 11:31:21 WARN  [req-0015] db timeout
+2026-07-21 11:31:21 INFO  [req-0016] request served
+2026-07-21 11:31:22 DEBUG [req-0017] request served
+2026-07-21 11:31:22 DEBUG [req-0018] cache miss
+2026-07-21 11:31:23 INFO  [req-0019] disk 91% full
+2026-07-21 11:31:23 INFO  [req-0020] retry scheduled
